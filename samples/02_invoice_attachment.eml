@@ -1,0 +1,22 @@
+Received: from bulk.bulk-sender.example (bulk.bulk-sender.example [198.51.100.77]) by mx.corp.example with ESMTP id d4e5f6; Thu, 8 Oct 2026 05:30:10 +0000
+Authentication-Results: mx.corp.example; spf=softfail smtp.mailfrom=bulk-sender.example; dkim=none; dmarc=none
+Return-Path: <noreply@bulk-sender.example>
+From: "Accounts Payable" <ap@supplier-billing.example>
+To: finance@corp.example
+Subject: Overdue invoice 8841 - action required
+Date: Thu, 08 Oct 2026 05:30:00 +0000
+Message-ID: <demo-002@supplier-billing.example>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="bnd2"
+
+--bnd2
+Content-Type: text/plain; charset="utf-8"
+
+Please find attached the overdue invoice. Payment is required immediately to avoid penalties.
+--bnd2
+Content-Type: application/octet-stream; name="Invoice_8841.pdf.exe"
+Content-Disposition: attachment; filename="Invoice_8841.pdf.exe"
+Content-Transfer-Encoding: base64
+
+SEFSTUxFU1MgREVNTyBGSUxFIC0gTk9UIEVYRUNVVEFCTEU=
+--bnd2--

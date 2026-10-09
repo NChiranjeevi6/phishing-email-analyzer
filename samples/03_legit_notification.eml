@@ -1,0 +1,13 @@
+Received: from out.github.com (out.github.com [192.0.2.10]) by mx.corp.example with ESMTP id g7h8i9; Thu, 8 Oct 2026 08:00:02 +0000
+Authentication-Results: mx.corp.example; spf=pass smtp.mailfrom=github.com; dkim=pass header.d=github.com; dmarc=pass header.from=github.com
+Return-Path: <noreply@github.com>
+From: "GitHub" <noreply@github.com>
+To: priya@corp.example
+Subject: [alert-triage-copilot] Pull request #4 opened
+Date: Thu, 08 Oct 2026 08:00:00 +0000
+Message-ID: <demo-003@github.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+
+<html><body><p>A new pull request was opened in your repository.</p>
+<p><a href="https://github.com/notifications">View it on GitHub</a></p></body></html>

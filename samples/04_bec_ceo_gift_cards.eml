@@ -1,0 +1,13 @@
+Received: from mail.freemail.example (mail.freemail.example [198.51.100.9]) by mx.corp.example with ESMTP id j1k2l3; Thu, 8 Oct 2026 09:45:11 +0000
+Authentication-Results: mx.corp.example; spf=pass smtp.mailfrom=freemail.example; dkim=pass header.d=freemail.example; dmarc=none
+From: "Priya Sharma, CEO" <priya.ceo@freemail.example>
+Reply-To: <p.sharma.private@othermail.example>
+To: assistant@corp.example
+Subject: Quick task
+Date: Thu, 08 Oct 2026 09:45:00 +0000
+Message-ID: <demo-004@freemail.example>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+
+Are you available? I need you to handle a task urgently. I'm in a meeting so do not call me.
+Please purchase 5 gift cards of 100 each and send me the codes. Keep this confidential.

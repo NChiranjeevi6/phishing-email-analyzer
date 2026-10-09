@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+reports/*
+!reports/.gitkeep
+# never commit real emails
+*.eml
+!samples/*.eml

@@ -1,0 +1,3 @@
+pytest>=8.0
+# optional: enables --dns (SPF/DMARC record check)
+dnspython>=2.4
